@@ -4,62 +4,91 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    private Rigidbody2D rb;
-    private BoxCollider2D col;
-    private Animator anim;
-    private float dirx=0f;
-    private SpriteRenderer sprite;
-    [SerializeField] private float movespeed = 8f;
-    [SerializeField] private float jumpforce = 9f;
-    [SerializeField] private LayerMask jumpableGround;
-    private enum MovementState {idle,running,jumping,falling }
-    [SerializeField] private AudioSource Jumpaffect;
+    private Rigidbody2D rb; // Biến lưu trữ thành phần Rigidbody2D của nhân vật
+    private BoxCollider2D col; // Biến lưu trữ thành phần BoxCollider2D của nhân vật
+    private Animator anim; // Biến lưu trữ thành phần Animator của nhân vật
+    private float dirx = 0f; // Hướng di chuyển theo trục x
+    private SpriteRenderer sprite; // Biến lưu trữ thành phần SpriteRenderer của nhân vật
+    [SerializeField] private float movespeed = 8f; // Tốc độ di chuyển của nhân vật
+    [SerializeField] private float jumpforce = 9f; // Lực nhảy của nhân vật
+    [SerializeField] private LayerMask jumpableGround; // Lớp đất mà nhân vật có thể nhảy lên
+
+    private enum MovementState { idle, running, jumping, falling } // Enum định nghĩa các trạng thái di chuyển của nhân vật
+
+    [SerializeField] private AudioSource Jumpaffect; // Âm thanh khi nhảy
+
     private void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        col = GetComponent<BoxCollider2D>();
-        sprite = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>(); // Lấy thành phần Rigidbody2D của nhân vật
+        col = GetComponent<BoxCollider2D>(); // Lấy thành phần BoxCollider2D của nhân vật
+        sprite = GetComponent<SpriteRenderer>(); // Lấy thành phần SpriteRenderer của nhân vật
+        anim = GetComponent<Animator>(); // Lấy thành phần Animator của nhân vật
     }
 
-    // Update is called once per frame
+    // Update được gọi một lần mỗi khung hình
     private void Update()
     {
+        // Lấy hướng di chuyển từ đầu vào của người chơi
         dirx = Input.GetAxisRaw("Horizontal");
-        rb.velocity = new Vector2(dirx * movespeed,rb.velocity.y);
-        if(Input.GetButtonDown("Jump") && isGrounded())
+
+        // Cập nhật vận tốc của nhân vật dựa trên hướng di chuyển và tốc độ di chuyển
+        rb.velocity = new Vector2(dirx * movespeed, rb.velocity.y);
+
+        // Kiểm tra nếu phím nhảy được nhấn và nhân vật đang đứng trên đất
+        if (Input.GetButtonDown("Jump") && isGrounded())
         {
-            Jumpaffect.Play();
+            Jumpaffect.Play(); // Phát âm thanh khi nhảy
+            // Cập nhật vận tốc theo trục y để thực hiện nhảy
             GetComponent<Rigidbody2D>().velocity = new Vector3(rb.velocity.x, jumpforce);
         }
+
+        // Cập nhật trạng thái animation của nhân vật
         UpdateAnimationState();
     }
 
-    private void UpdateAnimationState() 
+    // Hàm cập nhật trạng thái animation của nhân vật
+    private void UpdateAnimationState()
     {
         MovementState state;
+
+        // Kiểm tra hướng di chuyển để đặt trạng thái animation tương ứng
         if (dirx > 0f)
         {
             state = MovementState.running;
-            sprite.flipX = false;
+            sprite.flipX = false; // Không lật ảnh nhân vật
         }
         else if (dirx < 0f)
         {
             state = MovementState.running;
-            sprite.flipX = true;
+            sprite.flipX = true; // Lật ảnh nhân vật
         }
-        else state = MovementState.idle;
+        else
+        {
+            state = MovementState.idle; // Đặt trạng thái idle nếu không di chuyển
+        }
 
-        if(rb.velocity.y> .1f) state = MovementState.jumping;
-        else if(rb.velocity.y< -.1f) state = MovementState.falling;
+        // Kiểm tra vận tốc theo trục y để đặt trạng thái jumping hoặc falling
+        if (rb.velocity.y > .1f)
+        {
+            state = MovementState.jumping;
+        }
+        else if (rb.velocity.y < -.1f)
+        {
+            state = MovementState.falling;
+        }
+
+        // Cập nhật trạng thái animation trong Animator
         anim.SetInteger("state", (int)state);
-     
     }
+
+    // Hàm kiểm tra xem nhân vật có đang đứng trên đất hay không
     private bool isGrounded()
     {
+        // Sử dụng BoxCast để kiểm tra va chạm với lớp đất có thể nhảy lên
         return Physics2D.BoxCast(col.bounds.center, col.bounds.size, 0f, Vector2.down, .1f, jumpableGround);
     }
 }
+
 /*
 using System.Collections;
 using System.Collections.Generic;
