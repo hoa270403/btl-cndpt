@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿/* Trên window
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -88,8 +89,9 @@ public class Movement : MonoBehaviour
         return Physics2D.BoxCast(col.bounds.center, col.bounds.size, 0f, Vector2.down, .1f, jumpableGround);
     }
 }
+*/
+//trên mấy tính
 
-/*
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -233,5 +235,5 @@ public class Movement : MonoBehaviour
     {
         return Physics2D.BoxCast(col.bounds.center, col.bounds.size, 0f, Vector2.down, .1f, jumpableGround);
     }
-}*/
+}
 

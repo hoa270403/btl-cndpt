@@ -1,125 +1,125 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
-		INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
 	xmlns:android
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
 uses-feature#0x00020000
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
 	android:glEsVersion
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
 uses-feature#android.hardware.touchscreen
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-88
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-88
 	android:required
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-85
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-85
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-99
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-99
 	android:required
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:72-96
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:72-96
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-71
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-108
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-108
 	android:required
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:81-105
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:81-105
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-80
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-80
 application
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-22:17
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-22:17
 	android:extractNativeLibs
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
 meta-data#unity.splash-mode
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-69
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-69
 	android:value
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-66
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-66
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
 meta-data#unity.splash-enable
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-74
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-74
 	android:value
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:51-71
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:51-71
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-50
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-50
 meta-data#unity.launch-fullscreen
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-78
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-78
 	android:value
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:55-75
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-54
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-54
 meta-data#unity.allow-resizable-window
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-84
 	android:value
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:60-81
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:60-81
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-59
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-59
 meta-data#unity.auto-report-fully-drawn
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
 	android:value
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-81
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-81
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-60
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-60
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-21:16
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-21:16
 	android:screenOrientation
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-147
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-147
 	android:launchMode
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:148-179
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:148-179
 	android:hardwareAccelerated
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:397-432
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:397-432
 	android:exported
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:433-456
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:433-456
 	android:resizeableActivity
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:362-396
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:362-396
 	android:configChanges
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:180-361
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:180-361
 	android:theme
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-19:23
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-19:23
 category#android.intent.category.LAUNCHER
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-69
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-69
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:19-66
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:19-66
 action#android.intent.action.MAIN
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-61
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-61
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-58
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-58
 meta-data#unityplayer.UnityActivity
-ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-82
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-82
 	android:value
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:59-79
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:59-79
 	android:name
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-58
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-58
 uses-sdk
-INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		ADDED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		INJECTED from E:\CNDPT\20231IT6004003-BCTN-Nhom6-ChienCuongLong\Fun Fruit Jump\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
