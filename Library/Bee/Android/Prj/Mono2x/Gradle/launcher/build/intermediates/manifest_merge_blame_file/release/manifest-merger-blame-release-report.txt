@@ -127,8 +127,8 @@
 71-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-44
 72            android:resizeableActivity="false"
 72-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-47
-73            android:screenOrientation="portrait"
-73-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-49
+73            android:screenOrientation="reverseLandscape"
+73-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-57
 74            android:theme="@style/UnityThemeSelector" >
 74-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-54
 75            <intent-filter>

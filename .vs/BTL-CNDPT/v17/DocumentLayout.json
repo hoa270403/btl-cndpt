@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0110aPh\u01B0\u01A1ngTi\u1EC7n\\BTL-CNDPT\\",
+  "WorkspaceRootPath": "D:\\Projects\\BTL-CNDPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|d:\\\u0111aph\u01B0\u01A1ngti\u1EC7n\\btl-cndpt\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|d:\\projects\\btl-cndpt\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|d:\\\u0111aph\u01B0\u01A1ngti\u1EC7n\\btl-cndpt\\assets\\scripts\\cameracantrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|D:\\Projects\\BTL-CNDPT\\assets\\scripts\\cameracantrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracantrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Movement.cs",
-              "DocumentMoniker": "D:\\\u0110aPh\u01B0\u01A1ngTi\u1EC7n\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
+              "DocumentMoniker": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
-              "ToolTip": "D:\\\u0110aPh\u01B0\u01A1ngTi\u1EC7n\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
+              "ToolTip": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCIAAABDAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAA6wF0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T09:31:51.924Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CameraCantrol.cs",
-              "DocumentMoniker": "D:\\\u0110aPh\u01B0\u01A1ngTi\u1EC7n\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
+              "DocumentMoniker": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraCantrol.cs",
-              "ToolTip": "D:\\\u0110aPh\u01B0\u01A1ngTi\u1EC7n\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
+              "ToolTip": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraCantrol.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:34:14.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T08:34:14.793Z"
             }
           ]
         }

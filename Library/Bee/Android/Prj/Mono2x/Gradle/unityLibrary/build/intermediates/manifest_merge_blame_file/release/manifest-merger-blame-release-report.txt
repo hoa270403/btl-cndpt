@@ -77,17 +77,17 @@
 42            android:name="com.unity3d.player.UnityPlayerActivity"
 42-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
 43            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-43-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:180-361
+43-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:188-369
 44            android:exported="true"
-44-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:433-456
+44-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:441-464
 45            android:hardwareAccelerated="false"
-45-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:397-432
+45-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:405-440
 46            android:launchMode="singleTask"
-46-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:148-179
+46-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:156-187
 47            android:resizeableActivity="false"
-47-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:362-396
-48            android:screenOrientation="portrait"
-48-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-147
+47-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:370-404
+48            android:screenOrientation="reverseLandscape"
+48-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-155
 49            android:theme="@style/UnityThemeSelector" >
 49-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
 50            <intent-filter>
