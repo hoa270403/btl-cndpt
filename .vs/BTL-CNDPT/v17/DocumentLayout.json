@@ -1,14 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\BTL-CNDPT\\",
+  "WorkspaceRootPath": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|d:\\projects\\btl-cndpt\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|e:\\cndpt\\game 1\\btl-cndpt\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|e:\\cndpt\\game 1\\btl-cndpt\\assets\\scripts\\startfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\enemishoting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemishoting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\finalbossintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finalbossintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\destroybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|D:\\Projects\\BTL-CNDPT\\assets\\scripts\\cameracantrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\cameracantrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracantrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|E:\\CNDPT\\Game 1\\BTL-CNDPT\\assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9043EB-0BF5-2898-85EC-BE64C90AFEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +71,186 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Movement.cs",
-              "DocumentMoniker": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
-              "ToolTip": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAA6wF0AAAAPAAAA",
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T09:31:51.924Z",
+              "WhenOpened": "2024-11-17T04:56:41.334Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CameraCantrol.cs",
-              "DocumentMoniker": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraCantrol.cs",
-              "ToolTip": "D:\\Projects\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraCantrol.cs",
+              "Title": "StartFinal.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\StartFinal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartFinal.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\StartFinal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:56:39.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalBossIntro.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\FinalBossIntro.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinalBossIntro.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\FinalBossIntro.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinalBossIntro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:26:13.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestroyBullet.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\DestroyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyBullet.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\DestroyBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyBullet.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:31:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemishoting.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\Enemishoting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemishoting.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\Enemishoting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemishoting.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:30:50.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WayPoint.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\WayPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WayPoint.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\WayPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WayPoint.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:50:29.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:31:51.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:26:57.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerLife.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\PlayerLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLife.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\PlayerLife.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLife.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:23:37.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EndMenu.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\EndMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndMenu.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\EndMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndMenu.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:22:47.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartMenu.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:52:44.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemCollector.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCollector.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCollector.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:46:01.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:43:50.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraCantrol.cs",
+              "DocumentMoniker": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraCantrol.cs",
+              "ToolTip": "E:\\CNDPT\\Game 1\\BTL-CNDPT\\Assets\\Scripts\\CameraCantrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraCantrol.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T08:34:14.793Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

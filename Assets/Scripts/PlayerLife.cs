@@ -23,7 +23,13 @@ public class PlayerLife : MonoBehaviour
             Die(); // Gọi hàm Die nếu va chạm với "trap"
         }
     }
-
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Bullet"))
+            {
+            Die();
+        }
+    }
     // Hàm xử lý khi nhân vật chết
     private void Die()
     {

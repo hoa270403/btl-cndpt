@@ -10,6 +10,9 @@ TagManager:
   - BackgroundSound
   - banana
   - bananas
+  - wall
+  - Wall
+  - Bullet
   layers:
   - Default
   - TransparentFX

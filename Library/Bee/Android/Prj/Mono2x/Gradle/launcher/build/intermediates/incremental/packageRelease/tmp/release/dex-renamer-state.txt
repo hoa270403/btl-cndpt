@@ -1,4 +1,4 @@
-#Sun Jun 02 17:43:44 ICT 2024
-base.0=D\:\\Projects\\BTL-CNDPT\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+#Thu Jul 04 11:44:23 ICT 2024
+base.0=E\:\\CNDPT\\Game 1\\BTL-CNDPT\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
